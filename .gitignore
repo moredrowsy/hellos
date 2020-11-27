@@ -1,0 +1,14 @@
+*.classpath
+*.o
+*.project
+*.pyc
+.settings/
+.vscode/
+__pycache__/
+bin/
+c/hello/hello
+cpp/hello/hello
+dist/
+node_modules/
+obj/
+target/
